@@ -20,3 +20,10 @@ Réflichissez bien à l'UI et l'UX. Dès l'instant où un utilisateur se sent d�
 
 Les applications à la demande doivent être fluides.  
 Moins de temps pour arriver à l'action souhaitée signifie également moins de consommation de batterie et un impact plus doux sur l'environnement.
+
+## Livrable
+
+- Maquette du site ou de l'application mobile sur smartphone, taille standard (résolution suggérée : 360×640) [Source](https://worship.agency/mobile-screen-sizes-for-2021)
+- Maquette du site sur un écran standard résolution suggérée : 1024x768)
+- Option : maquette du site sur tablette (résolution suggérée : 601×962)
+- [Voir aussi](https://www.hobo-web.co.uk/best-screen-size/)
